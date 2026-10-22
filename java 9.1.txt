@@ -1,0 +1,2 @@
+static final String USERNAME = "root";
+static final String PASSWORD = "root";
